@@ -1,0 +1,9 @@
+.background {
+    background-size: cover;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrCoepkBn8iRp1injNH_B7nTR5m_rqxrprw&usqp=CAU');
+    background-repeat: no-repeat;
+    background-position: center center; 
+    min-height: 100vh;
+    
+ }
+ 
